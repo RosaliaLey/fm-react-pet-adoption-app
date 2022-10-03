@@ -14,7 +14,7 @@ Create a responsive pet adoption app using React, Javascript, HTML5, and CSS. ES
 
 ### Screenshot
 
-![](img/localhost_1234_.png)
+![](/img/localhost_1234_.png)
 
 ### Links
 
